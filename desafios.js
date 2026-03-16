@@ -117,4 +117,4 @@ let expressao = 2 + 3 * 5
 
 console.log('A expressão é ', expressao)
 //Assim como na vida real, a matemática sempre prioriza a multiplicação antes da soma quando fora de lados
-//então o computador também prioriza a matemática
+//então o computador também prioriza a matemática 
